@@ -1,5 +1,6 @@
 Replace this with a list of your favorite things.
--icecream
--kurkure
--choclates
-  
+- Icecream
+- Kurkure
+- Chocolates
+    - Dairymilk
+    - Melody
